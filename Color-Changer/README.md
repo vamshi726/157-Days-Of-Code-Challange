@@ -6,7 +6,7 @@ Welcome to the Color Changer App! This simple React application allows you to ex
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/your-username/color-changer-app.git
+   git clone https://github.com/vamshi726/color-changer.git
    cd color-changer-app
 2. **Run the App:**
    ```bash
