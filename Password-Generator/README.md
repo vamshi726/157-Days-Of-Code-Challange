@@ -14,7 +14,7 @@ This is a simple password generator built using React. It allows users to genera
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/your-username/your-password-generator.git
+    git clone https://github.com/vamshi726/157-Days-Of-Code-Challange/tree/main/Password-Generator
     cd your-password-generator
     ```
 
@@ -64,7 +64,7 @@ Vamshi Muluguri
 
 ## Contact
 
-For any inquiries or feedback, please contact [your-email@example.com](mailto:your-email@example.com).
+For any inquiries or feedback, please contact me on Linkedin.
 
 ---
 
