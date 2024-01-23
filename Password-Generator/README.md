@@ -40,6 +40,11 @@ This is a simple password generator built using React. It allows users to genera
 4. The generated password will be displayed in the input field.
 5. Click the "Copy" button to copy the password to the clipboard.
 
+## Deployment
+
+The application is deployed and can be accessed [here](https://password-generator-32chars.vercel.app/).
+
+
 ## Technologies Used
 
 - React
